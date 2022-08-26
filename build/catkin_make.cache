@@ -1,0 +1,2 @@
+yesense_driver
+-DCATKIN_DEVEL_PREFIX=/home/yxc/catkin_ws4/devel -DCMAKE_INSTALL_PREFIX=/home/yxc/catkin_ws4/install -G Unix Makefiles
